@@ -1,2 +1,1 @@
-# Assignment
-Python
+# Ineuron-Assignments
